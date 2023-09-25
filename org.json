@@ -1,0 +1,8008 @@
+[
+    {
+        "name": "YouTube",
+        "children": [
+            {
+                "name": "Chad Hurley",
+                "children": [
+                    {
+                        "name": "Indiana University of Pennsylvania",
+                        "value": 528
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Goop Inc.",
+        "children": [
+            {
+                "name": "Gwyneth Paltrow",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 565
+                    }
+                ]
+            },
+            {
+                "name": "Lisa Gersh",
+                "children": [
+                    {
+                        "name": "SUNY Binghamton",
+                        "value": 809
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Inside.com",
+        "children": [
+            {
+                "name": "Jason Calacanis",
+                "children": [
+                    {
+                        "name": "Fordham University",
+                        "value": 232
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nest Labs",
+        "children": [
+            {
+                "name": "Tony Fadell",
+                "children": [
+                    {
+                        "name": "University of Michigan",
+                        "value": 611
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Automattic",
+        "children": [
+            {
+                "name": "Matt Mullenweg",
+                "children": [
+                    {
+                        "name": "University of Houston",
+                        "value": 864
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tempus",
+        "children": [
+            {
+                "name": "Eric Lefkofsky",
+                "children": [
+                    {
+                        "name": "University of Michigan",
+                        "value": 447
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Instagram",
+        "children": [
+            {
+                "name": "Kevin Systrom",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 586
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LendingHome",
+        "children": [
+            {
+                "name": "Matt Humphrey",
+                "children": [
+                    {
+                        "name": "Carnegie Mellon University",
+                        "value": 22
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Asana",
+        "children": [
+            {
+                "name": "Dustin Moskovitz",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 706
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WhatsApp",
+        "children": [
+            {
+                "name": "Jan Koum",
+                "children": [
+                    {
+                        "name": "San Jose State University",
+                        "value": 728
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Talla",
+        "children": [
+            {
+                "name": "Rob May",
+                "children": [
+                    {
+                        "name": "University of Kentucky",
+                        "value": 659
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kiip",
+        "children": [
+            {
+                "name": "Brian Wong",
+                "children": [
+                    {
+                        "name": "University of British Columbia",
+                        "value": 624
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sift Science",
+        "children": [
+            {
+                "name": "Jason Tan",
+                "children": [
+                    {
+                        "name": "University of Washington",
+                        "value": 981
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Droom Technology",
+        "children": [
+            {
+                "name": "Sandeep Aggarwal",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 293
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ClassPass",
+        "children": [
+            {
+                "name": "Payal Kadakia",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 387
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Oculus",
+        "children": [
+            {
+                "name": "Brendan Iribe",
+                "children": [
+                    {
+                        "name": "University of Maryland College Park",
+                        "value": 846
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Krux",
+        "children": [
+            {
+                "name": "Tom Chavez",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 970
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Brandless",
+        "children": [
+            {
+                "name": "Tina Sharkey",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 932
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Twitch",
+        "children": [
+            {
+                "name": "Emmett Shear",
+                "children": [
+                    {
+                        "name": "Yale University",
+                        "value": 67
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Engagio",
+        "children": [
+            {
+                "name": "Jon Miller",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 591
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fabletics",
+        "children": [
+            {
+                "name": "Don Ressler",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 699
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Moat",
+        "children": [
+            {
+                "name": "Jonah Goodhart",
+                "children": [
+                    {
+                        "name": "Cornell University",
+                        "value": 662
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tenable Network Security, Inc.",
+        "children": [
+            {
+                "name": "Ron Gula",
+                "children": [
+                    {
+                        "name": "Clarkson University",
+                        "value": 350
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Olapic",
+        "children": [
+            {
+                "name": "Pau Sabria",
+                "children": [
+                    {
+                        "name": "Technical University of Catalonia",
+                        "value": 711
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Patreon",
+        "children": [
+            {
+                "name": "Jack Conte",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 781
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WayUp",
+        "children": [
+            {
+                "name": "Liz Wessel",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 141
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Robinhood",
+        "children": [
+            {
+                "name": "Vlad Tenev",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 217
+                    }
+                ]
+            },
+            {
+                "name": "Baiju Prafulkumar Bhatt",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 663
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WITHIN (VR/AR)",
+        "children": [
+            {
+                "name": "Chris Milk",
+                "children": [
+                    {
+                        "name": "Academy of Art University",
+                        "value": 928
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ripcord",
+        "children": [
+            {
+                "name": "Alex Fielding",
+                "children": [
+                    {
+                        "name": "San Jose State University",
+                        "value": 689
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Planet",
+        "children": [
+            {
+                "name": "Will Marshall",
+                "children": [
+                    {
+                        "name": "University of Leicester",
+                        "value": 748
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "HealthTap",
+        "children": [
+            {
+                "name": "Ron Gutman",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 411
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DoorDash",
+        "children": [
+            {
+                "name": "Tony Xu",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 472
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tamr",
+        "children": [
+            {
+                "name": "Andy Palmer",
+                "children": [
+                    {
+                        "name": "Bowdoin College",
+                        "value": 967
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mashable",
+        "children": [
+            {
+                "name": "Pete Cashmore",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 348
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Climate Corporation",
+        "children": [
+            {
+                "name": "David Friedberg",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 935
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ipsy",
+        "children": [
+            {
+                "name": "Marcelo Camberos",
+                "children": [
+                    {
+                        "name": "Duke University",
+                        "value": 672
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Casper Sleep",
+        "children": [
+            {
+                "name": "Philip Krim",
+                "children": [
+                    {
+                        "name": "University of Texas Austin",
+                        "value": 317
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Doppler Labs",
+        "children": [
+            {
+                "name": "Noah Kraft",
+                "children": [
+                    {
+                        "name": "Brown University",
+                        "value": 154
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Accompany",
+        "children": [
+            {
+                "name": "Amy Chang",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 298
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Anonyome Labs",
+        "children": [
+            {
+                "name": "Steve Shillingford",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 213
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MasterClass",
+        "children": [
+            {
+                "name": "David Rogier",
+                "children": [
+                    {
+                        "name": "Washington University in St. Louis",
+                        "value": 330
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Qualtrics",
+        "children": [
+            {
+                "name": "Ryan Smith",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 571
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "OfferUp",
+        "children": [
+            {
+                "name": "Nick Huzar",
+                "children": [
+                    {
+                        "name": "Washington State University",
+                        "value": 143
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Glossier",
+        "children": [
+            {
+                "name": "Emily Weiss",
+                "children": [
+                    {
+                        "name": "New York University",
+                        "value": 224
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nextdoor",
+        "children": [
+            {
+                "name": "Nirav Tolia",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 421
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "21 Inc",
+        "children": [
+            {
+                "name": "Balaji S. Srinivasan",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 41
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mattermark",
+        "children": [
+            {
+                "name": "Danielle Morrill",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 662
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Honor",
+        "children": [
+            {
+                "name": "Seth Sternberg",
+                "children": [
+                    {
+                        "name": "Yale University",
+                        "value": 355
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Away",
+        "children": [
+            {
+                "name": "Jen Rubio",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 136
+                    }
+                ]
+            },
+            {
+                "name": "Steph Korey",
+                "children": [
+                    {
+                        "name": "Brown University",
+                        "value": 540
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Luxe",
+        "children": [
+            {
+                "name": "Curtis Lee",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 948
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dropcam",
+        "children": [
+            {
+                "name": "Greg Duffy",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 124
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nauto, Inc.",
+        "children": [
+            {
+                "name": "Stefan Heck",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 41
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "EdCast",
+        "children": [
+            {
+                "name": "Karl Mehta",
+                "children": [
+                    {
+                        "name": "University of Bombay",
+                        "value": 642
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gusto",
+        "children": [
+            {
+                "name": "Joshua Reeves",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 303
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Quip",
+        "children": [
+            {
+                "name": "Bret Taylor",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 848
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "StyleSeat",
+        "children": [
+            {
+                "name": "Melody McCloskey",
+                "children": [
+                    {
+                        "name": "University of California Davis",
+                        "value": 399
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yik Yak",
+        "children": [
+            {
+                "name": "Tyler Droll",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 979
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "x.ai",
+        "children": [
+            {
+                "name": "Dennis Mortensen",
+                "children": [
+                    {
+                        "name": "Skive Business College",
+                        "value": 837
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AltSchool",
+        "children": [
+            {
+                "name": "Max Ventilla",
+                "children": [
+                    {
+                        "name": "Yale University",
+                        "value": 993
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Vungle",
+        "children": [
+            {
+                "name": "Zain Jaffer",
+                "children": [
+                    {
+                        "name": "King's College London",
+                        "value": 975
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AirMap",
+        "children": [
+            {
+                "name": "Ben Marcus",
+                "children": [
+                    {
+                        "name": "Purdue University",
+                        "value": 338
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tile",
+        "children": [
+            {
+                "name": "Mike Farley",
+                "children": [
+                    {
+                        "name": "State University of New York College at Plattsburgh",
+                        "value": 917
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TINYhr",
+        "children": [
+            {
+                "name": "David Niu",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 16
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Andela",
+        "children": [
+            {
+                "name": "Jeremy Johnson",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 626
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Drift",
+        "children": [
+            {
+                "name": "David Cancel",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 614
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Quote Roller",
+        "children": [
+            {
+                "name": "Mikita Mikado",
+                "children": [
+                    {
+                        "name": "Belarussian State University of Informatics and Radioelectronics",
+                        "value": 286
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Drawbridge Inc.",
+        "children": [
+            {
+                "name": "Kamakshi Sivaramakrishnan",
+                "children": [
+                    {
+                        "name": "Boston University",
+                        "value": 46
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Squarespace",
+        "children": [
+            {
+                "name": "Anthony Casalena",
+                "children": [
+                    {
+                        "name": "University of Maryland College Park",
+                        "value": 237
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cotopaxi",
+        "children": [
+            {
+                "name": "Davis Smith",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 996
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mixpanel",
+        "children": [
+            {
+                "name": "Suhail Doshi",
+                "children": [
+                    {
+                        "name": "Arizona State University",
+                        "value": 423
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lumity, Inc.",
+        "children": [
+            {
+                "name": "Tariq Hilaly",
+                "children": [
+                    {
+                        "name": "University of Missouri Saint Louis",
+                        "value": 595
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Freshly",
+        "children": [
+            {
+                "name": "Michael Wystrach",
+                "children": [
+                    {
+                        "name": "University of Arizona",
+                        "value": 586
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "PicsArt",
+        "children": [
+            {
+                "name": "Hovhannes Avoyan",
+                "children": [
+                    {
+                        "name": "State Engineering University of Armenia",
+                        "value": 418
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "mParticle",
+        "children": [
+            {
+                "name": "Michael Katz",
+                "children": [
+                    {
+                        "name": "Syracuse University",
+                        "value": 389
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Haptik",
+        "children": [
+            {
+                "name": "Aakrit Vaish",
+                "children": [
+                    {
+                        "name": "University of Illinois Urbana-Champaign",
+                        "value": 113
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Managed by Q",
+        "children": [
+            {
+                "name": "Dan Teran",
+                "children": [
+                    {
+                        "name": "Johns Hopkins University",
+                        "value": 383
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zscaler",
+        "children": [
+            {
+                "name": "Jay Chaudhry",
+                "children": [
+                    {
+                        "name": "Indian Institute Of Technology",
+                        "value": 537
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rekener Inc.",
+        "children": [
+            {
+                "name": "Alex Laats",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 348
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Amino",
+        "children": [
+            {
+                "name": "David Vivero",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 421
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Glint",
+        "children": [
+            {
+                "name": "Jim Barnett",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 310
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Apteligent",
+        "children": [
+            {
+                "name": "Andrew Levy",
+                "children": [
+                    {
+                        "name": "Johns Hopkins University",
+                        "value": 332
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Malwarebytes",
+        "children": [
+            {
+                "name": "Marcin Kleczynski",
+                "children": [
+                    {
+                        "name": "University of Illinois Urbana-Champaign",
+                        "value": 755
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Houseparty",
+        "children": [
+            {
+                "name": "Ben Rubin",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 677
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Leap Motion",
+        "children": [
+            {
+                "name": "Michael Buckwald",
+                "children": [
+                    {
+                        "name": "George Washington University",
+                        "value": 870
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kin Community",
+        "children": [
+            {
+                "name": "Michael Wayne",
+                "children": [
+                    {
+                        "name": "University of the South",
+                        "value": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dialpad",
+        "children": [
+            {
+                "name": "Craig Walker",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 551
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Meta",
+        "children": [
+            {
+                "name": "Meron Gribetz",
+                "children": [
+                    {
+                        "name": "Columbia",
+                        "value": 820
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "500Friends",
+        "children": [
+            {
+                "name": "Justin Yoshimura",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 325
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "EverQuote",
+        "children": [
+            {
+                "name": "Seth Birnbaum",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 942
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Qadium, Inc.",
+        "children": [
+            {
+                "name": "Tim Junio",
+                "children": [
+                    {
+                        "name": "Johns Hopkins University",
+                        "value": 794
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Leade.rs",
+        "children": [
+            {
+                "name": "Loic Le Meur",
+                "children": [
+                    {
+                        "name": "HEC",
+                        "value": 230
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Annum Health",
+        "children": [
+            {
+                "name": "Michael Laskoff",
+                "children": [
+                    {
+                        "name": "University of Chicago",
+                        "value": 134
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wrike",
+        "children": [
+            {
+                "name": "Andrew Filev",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 625
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Trusona",
+        "children": [
+            {
+                "name": "Ori Eisen",
+                "children": [
+                    {
+                        "name": "Bergen Community College",
+                        "value": 55
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Enigma",
+        "children": [
+            {
+                "name": "Hicham Oudghiri",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 716
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tr\ufffd?v",
+        "children": [
+            {
+                "name": "Scott Walchek",
+                "children": [
+                    {
+                        "name": "University of California San Diego",
+                        "value": 42
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Memebox Corporation",
+        "children": [
+            {
+                "name": "Hyungseok Dino Ha",
+                "children": [
+                    {
+                        "name": "Kyung Hee University",
+                        "value": 354
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Glowforge",
+        "children": [
+            {
+                "name": "Dan Shapiro",
+                "children": [
+                    {
+                        "name": "Harvey Mudd College",
+                        "value": 476
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Layer",
+        "children": [
+            {
+                "name": "Ron Palmeri",
+                "children": [
+                    {
+                        "name": "Institut d'Etudes Politiques de Paris",
+                        "value": 52
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "eero",
+        "children": [
+            {
+                "name": "Nick Weaver",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 116
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Prism Skylabs",
+        "children": [
+            {
+                "name": "Stephen Russell",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 776
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gimlet Media",
+        "children": [
+            {
+                "name": "Alex Blumberg",
+                "children": [
+                    {
+                        "name": "Oberlin College",
+                        "value": 271
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "eShares",
+        "children": [
+            {
+                "name": "Henry Ward",
+                "children": [
+                    {
+                        "name": "University of Michigan",
+                        "value": 198
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Brilliant.org",
+        "children": [
+            {
+                "name": "Sue Khim",
+                "children": [
+                    {
+                        "name": "University of Chicago",
+                        "value": 186
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Health Equity Labs",
+        "children": [
+            {
+                "name": "Munjal Shah",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 552
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Collective Health",
+        "children": [
+            {
+                "name": "Ali Diab",
+                "children": [
+                    {
+                        "name": "University of Oxford",
+                        "value": 499
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Polyvore",
+        "children": [
+            {
+                "name": "Jess Lee",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 828
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Appear Here",
+        "children": [
+            {
+                "name": "Ross Bailey",
+                "children": [
+                    {
+                        "name": "Bury Lawn School",
+                        "value": 917
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Clutter",
+        "children": [
+            {
+                "name": "Ari Mir",
+                "children": [
+                    {
+                        "name": "University of Southern California",
+                        "value": 323
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Orbital Insight, Inc.",
+        "children": [
+            {
+                "name": "James Crawford",
+                "children": [
+                    {
+                        "name": "Rice University",
+                        "value": 481
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Credible",
+        "children": [
+            {
+                "name": "Stephen Dash",
+                "children": [
+                    {
+                        "name": "University of Queensland",
+                        "value": 272
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Brit + Co",
+        "children": [
+            {
+                "name": "Brit Morin",
+                "children": [
+                    {
+                        "name": "University of Texas Austin",
+                        "value": 38
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Justworks",
+        "children": [
+            {
+                "name": "Isaac Oates",
+                "children": [
+                    {
+                        "name": "University of Illinois Urbana-Champaign",
+                        "value": 853
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Touch of Modern",
+        "children": [
+            {
+                "name": "Jerry Hum",
+                "children": [
+                    {
+                        "name": "Cornell University",
+                        "value": 327
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zipcar",
+        "children": [
+            {
+                "name": "Robin Chase",
+                "children": [
+                    {
+                        "name": "Wellesley College",
+                        "value": 159
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DroneDeploy",
+        "children": [
+            {
+                "name": "Michael Winn",
+                "children": [
+                    {
+                        "name": "Rhodes University",
+                        "value": 697
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dropoff, Inc.",
+        "children": [
+            {
+                "name": "Sean Spector",
+                "children": [
+                    {
+                        "name": "University of Southern California",
+                        "value": 256
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gogoro",
+        "children": [
+            {
+                "name": "Horace Luke",
+                "children": [
+                    {
+                        "name": "University of Washington",
+                        "value": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TrackR",
+        "children": [
+            {
+                "name": "Chris Herbert",
+                "children": [
+                    {
+                        "name": "University of California Santa Barbara",
+                        "value": 565
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Baobab Studios",
+        "children": [
+            {
+                "name": "Maureen Fan",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 205
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "IfOnly",
+        "children": [
+            {
+                "name": "Trevor Traina",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 494
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Quanergy Systems",
+        "children": [
+            {
+                "name": "Louay Eldada",
+                "children": [
+                    {
+                        "name": "Columbia University",
+                        "value": 641
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Makeblock",
+        "children": [
+            {
+                "name": "Jasen Wang",
+                "children": [
+                    {
+                        "name": "Northwestern Polytechnic University",
+                        "value": 718
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Doximity",
+        "children": [
+            {
+                "name": "Jeff Tangney",
+                "children": [
+                    {
+                        "name": "University of Wisconsin Madison",
+                        "value": 424
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "VideoAmp",
+        "children": [
+            {
+                "name": "Ross McCray",
+                "children": [
+                    {
+                        "name": "University of California Los Angeles",
+                        "value": 596
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Narvar",
+        "children": [
+            {
+                "name": "Amit Sharma",
+                "children": [
+                    {
+                        "name": "University of Mumbai",
+                        "value": 189
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Distil Networks",
+        "children": [
+            {
+                "name": "Rami Essaid",
+                "children": [
+                    {
+                        "name": "North Carolina State University",
+                        "value": 800
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Joymode",
+        "children": [
+            {
+                "name": "Joe Fernandez",
+                "children": [
+                    {
+                        "name": "University of Miami",
+                        "value": 887
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ZappRx",
+        "children": [
+            {
+                "name": "Zoe Barry",
+                "children": [
+                    {
+                        "name": "Columbia University",
+                        "value": 605
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Parsable",
+        "children": [
+            {
+                "name": "Yan-David Erlich",
+                "children": [
+                    {
+                        "name": "Rice University",
+                        "value": 364
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "GlobalTranz",
+        "children": [
+            {
+                "name": "Andrew Leto",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 615
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Button",
+        "children": [
+            {
+                "name": "Michael Jaconi",
+                "children": [
+                    {
+                        "name": "University of Southern California",
+                        "value": 45
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wikinvest",
+        "children": [
+            {
+                "name": "Mike Sha",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 873
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tophatter, Inc.",
+        "children": [
+            {
+                "name": "Ashvin Kumar",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 908
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Leanplum",
+        "children": [
+            {
+                "name": "Momchil Kyurkchiev",
+                "children": [
+                    {
+                        "name": "State University of New York College at Brockport",
+                        "value": 513
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kairos AR",
+        "children": [
+            {
+                "name": "Brian Brackeen",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 328
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Shyp",
+        "children": [
+            {
+                "name": "Kevin Gibbon",
+                "children": [
+                    {
+                        "name": "British Columbia Institute of Technology",
+                        "value": 959
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rocketrip",
+        "children": [
+            {
+                "name": "Daniel Ruch",
+                "children": [
+                    {
+                        "name": "University of Wisconsin Madison",
+                        "value": 600
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Swiftype",
+        "children": [
+            {
+                "name": "Matt Riley",
+                "children": [
+                    {
+                        "name": "University of Texas Austin",
+                        "value": 160
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "New Relic",
+        "children": [
+            {
+                "name": "Lew Cirne",
+                "children": [
+                    {
+                        "name": "Dartmouth College",
+                        "value": 73
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Krossover",
+        "children": [
+            {
+                "name": "Vasu Kulkarni",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 437
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WHOOP",
+        "children": [
+            {
+                "name": "Will Ahmed",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Juvo",
+        "children": [
+            {
+                "name": "Steve Polsky",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 297
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zumper",
+        "children": [
+            {
+                "name": "Anthemos Georgiades",
+                "children": [
+                    {
+                        "name": "University of Oxford",
+                        "value": 953
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bolt Threads",
+        "children": [
+            {
+                "name": "Dan Widmaier",
+                "children": [
+                    {
+                        "name": "University of Washington",
+                        "value": 353
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Heyzap",
+        "children": [
+            {
+                "name": "Immad Akhund",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 84
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FarmLogs",
+        "children": [
+            {
+                "name": "Jesse Vollmar",
+                "children": [
+                    {
+                        "name": "Saginaw Valley State University",
+                        "value": 735
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SparkCognition",
+        "children": [
+            {
+                "name": "Amir Husain",
+                "children": [
+                    {
+                        "name": "University of Texas Austin",
+                        "value": 133
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Trip.com",
+        "children": [
+            {
+                "name": "Travis Katz",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 333
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zipwhip",
+        "children": [
+            {
+                "name": "Travis Katz",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 488
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "INFINIDAT",
+        "children": [
+            {
+                "name": "Moshe Yanai",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 720
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Xamarin",
+        "children": [
+            {
+                "name": "Nat Friedman",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 159
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Codecademy",
+        "children": [
+            {
+                "name": "Zachary Sims",
+                "children": [
+                    {
+                        "name": "Columbia University",
+                        "value": 493
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Placed",
+        "children": [
+            {
+                "name": "David Shim",
+                "children": [
+                    {
+                        "name": "University of Washington",
+                        "value": 53
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "OpenGov",
+        "children": [
+            {
+                "name": "Zac Bookman",
+                "children": [
+                    {
+                        "name": "San Jose State University",
+                        "value": 863
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Area 1 Security",
+        "children": [
+            {
+                "name": "Oren J. Falkowitz",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 274
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MakeSpace",
+        "children": [
+            {
+                "name": "Sam Rosen",
+                "children": [
+                    {
+                        "name": "New York University",
+                        "value": 383
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jaunt",
+        "children": [
+            {
+                "name": "Jens Christensen",
+                "children": [
+                    {
+                        "name": "Columbia University",
+                        "value": 674
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Elastica",
+        "children": [
+            {
+                "name": "Rehan Jalil",
+                "children": [
+                    {
+                        "name": "NED University of Engineering and Technology",
+                        "value": 275
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "inDinero",
+        "children": [
+            {
+                "name": "Jessica Mah",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 335
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Entelo",
+        "children": [
+            {
+                "name": "Jon Bischke",
+                "children": [
+                    {
+                        "name": "University of MinnesotaTwin Cities",
+                        "value": 186
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pipewise",
+        "children": [
+            {
+                "name": "Michael Wolfe",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 882
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MindMeld",
+        "children": [
+            {
+                "name": "Tim Tuttle",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 133
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Epic!",
+        "children": [
+            {
+                "name": "Suren Markosian",
+                "children": [
+                    {
+                        "name": "Technische Universit\u00e4t Wien",
+                        "value": 734
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kiwi, Inc.",
+        "children": [
+            {
+                "name": "Omar Siddiqui",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 574
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "uBiome",
+        "children": [
+            {
+                "name": "Jessica Richman",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 119
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Chairish",
+        "children": [
+            {
+                "name": "Gregg Brockway",
+                "children": [
+                    {
+                        "name": "Dartmouth College",
+                        "value": 749
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FullContact",
+        "children": [
+            {
+                "name": "Bart Lorang",
+                "children": [
+                    {
+                        "name": "University of Colorado Boulder",
+                        "value": 325
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wag",
+        "children": [
+            {
+                "name": "Joshua Viner",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 242
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ixigo.com",
+        "children": [
+            {
+                "name": "Aloke Bajpai",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Kanpur",
+                        "value": 227
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Flixster",
+        "children": [
+            {
+                "name": "Joe Greenstein",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 391
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Eyefluence",
+        "children": [
+            {
+                "name": "Jim Marggraff",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 266
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FiveStars",
+        "children": [
+            {
+                "name": "Victor Ho",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 533
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hearsay Systems",
+        "children": [
+            {
+                "name": "Clara Shih",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 309
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "98point6",
+        "children": [
+            {
+                "name": "Robbie Cape",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 435
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "StyleHaul",
+        "children": [
+            {
+                "name": "Stephanie Horbaczewski",
+                "children": [
+                    {
+                        "name": "Trinity College Hartford",
+                        "value": 542
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Handshake",
+        "children": [
+            {
+                "name": "Garrett Lord",
+                "children": [
+                    {
+                        "name": "Michigan Technological University",
+                        "value": 987
+                    }
+                ]
+            },
+            {
+                "name": "Glen Coates",
+                "children": [
+                    {
+                        "name": "UNSW",
+                        "value": 634
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Palerra Inc.",
+        "children": [
+            {
+                "name": "Rohit Gupta",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 41
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jivox",
+        "children": [
+            {
+                "name": "Diaz Nesamoney",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 569
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sight Machine",
+        "children": [
+            {
+                "name": "Jon Sobel",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 363
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Aster Data Systems",
+        "children": [
+            {
+                "name": "Mayank Bawa",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Bombay",
+                        "value": 426
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Oro Inc.",
+        "children": [
+            {
+                "name": "Yoav Kutner",
+                "children": [
+                    {
+                        "name": "University of California Los Angeles",
+                        "value": 895
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lidyana.com",
+        "children": [
+            {
+                "name": "Hakan Bas",
+                "children": [
+                    {
+                        "name": "Cornell University",
+                        "value": 826
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "flowthings.io",
+        "children": [
+            {
+                "name": "Eric Alterman",
+                "children": [
+                    {
+                        "name": "Tufts University",
+                        "value": 866
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ozy Media",
+        "children": [
+            {
+                "name": "Carlos Watson",
+                "children": [
+                    {
+                        "name": "Syracuse University",
+                        "value": 114
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BookMyShow",
+        "children": [
+            {
+                "name": "Ashish Hemrajani",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 999
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pendo",
+        "children": [
+            {
+                "name": "Todd Olson",
+                "children": [
+                    {
+                        "name": "Carnegie Mellon University",
+                        "value": 347
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Weebly",
+        "children": [
+            {
+                "name": "David Rusenko",
+                "children": [
+                    {
+                        "name": "Penn State University",
+                        "value": 131
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Upskill (formerly APX Labs)",
+        "children": [
+            {
+                "name": "Brian Ballard",
+                "children": [
+                    {
+                        "name": "Carnegie Mellon University",
+                        "value": 17
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Belly",
+        "children": [
+            {
+                "name": "Logan LaHive",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 192
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Everwise",
+        "children": [
+            {
+                "name": "Mike Bergelson",
+                "children": [
+                    {
+                        "name": "Cornell University",
+                        "value": 940
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Evolv Technology",
+        "children": [
+            {
+                "name": "Michael Ellenbogen",
+                "children": [
+                    {
+                        "name": "Colgate University",
+                        "value": 954
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Plenty Inc.",
+        "children": [
+            {
+                "name": "Matt Barnard",
+                "children": [
+                    {
+                        "name": "Northwestern University",
+                        "value": 71
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Superpedestrian",
+        "children": [
+            {
+                "name": "Assaf Biderman",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 602
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lever",
+        "children": [
+            {
+                "name": "Sarah Nahm",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 457
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SeaMicro",
+        "children": [
+            {
+                "name": "Andrew Feldman",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 465
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wayfair",
+        "children": [
+            {
+                "name": "Niraj Shah",
+                "children": [
+                    {
+                        "name": "Cornell University",
+                        "value": 308
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "YouAppi",
+        "children": [
+            {
+                "name": "Moshe Vaknin",
+                "children": [
+                    {
+                        "name": "Monmouth University",
+                        "value": 645
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DogVacay",
+        "children": [
+            {
+                "name": "Aaron Hirschhorn",
+                "children": [
+                    {
+                        "name": "Swarthmore College",
+                        "value": 670
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Periscope Data",
+        "children": [
+            {
+                "name": "Harry Glaser",
+                "children": [
+                    {
+                        "name": "University of Rochester",
+                        "value": 442
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MemSQL",
+        "children": [
+            {
+                "name": "Eric Frenkiel",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 109
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Owler, Inc.",
+        "children": [
+            {
+                "name": "Jim Fowler",
+                "children": [
+                    {
+                        "name": "University of Colorado Boulder",
+                        "value": 418
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AppCard",
+        "children": [
+            {
+                "name": "Yair Goldfinger",
+                "children": [
+                    {
+                        "name": "Tel Aviv University",
+                        "value": 844
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bloom & Wild",
+        "children": [
+            {
+                "name": "Aron Gelbard",
+                "children": [
+                    {
+                        "name": "University of Oxford",
+                        "value": 754
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WibiData",
+        "children": [
+            {
+                "name": "Christophe Bisciglia",
+                "children": [
+                    {
+                        "name": "University of Washington",
+                        "value": 690
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Top Hat",
+        "children": [
+            {
+                "name": "Mike Silagadze",
+                "children": [
+                    {
+                        "name": "University of Waterloo",
+                        "value": 330
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MyTime",
+        "children": [
+            {
+                "name": "Ethan Anderson",
+                "children": [
+                    {
+                        "name": "Duke University",
+                        "value": 544
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kit Check",
+        "children": [
+            {
+                "name": "Kevin MacDonald",
+                "children": [
+                    {
+                        "name": "Villanova University",
+                        "value": 77
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zenefits",
+        "children": [
+            {
+                "name": "Parker Conrad",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 245
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Peloton Technology",
+        "children": [
+            {
+                "name": "Josh Switkes",
+                "children": [
+                    {
+                        "name": "Harvey Mudd College",
+                        "value": 150
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "INTURN",
+        "children": [
+            {
+                "name": "Ronen Lazar",
+                "children": [
+                    {
+                        "name": "Yeshiva University",
+                        "value": 83
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Interana",
+        "children": [
+            {
+                "name": "Ann Johnson",
+                "children": [
+                    {
+                        "name": "California Institute of Technology",
+                        "value": 616
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jut Inc",
+        "children": [
+            {
+                "name": "Steve McCanne",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 316
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DataVisor",
+        "children": [
+            {
+                "name": "Yinglian Xie",
+                "children": [
+                    {
+                        "name": "Peking University",
+                        "value": 180
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MarketInvoice",
+        "children": [
+            {
+                "name": "Anil Stocker",
+                "children": [
+                    {
+                        "name": "University of Cambridge",
+                        "value": 487
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Innovium Inc",
+        "children": [
+            {
+                "name": "Rajiv Khemani",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Delhi",
+                        "value": 179
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Transfix",
+        "children": [
+            {
+                "name": "Drew McElroy",
+                "children": [
+                    {
+                        "name": "Georgetown University",
+                        "value": 777
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pilot",
+        "children": [
+            {
+                "name": "Joseph Fasone",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 443
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Klipfolio",
+        "children": [
+            {
+                "name": "Allan Wille",
+                "children": [
+                    {
+                        "name": "Carleton University",
+                        "value": 439
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kantox",
+        "children": [
+            {
+                "name": "Philippe Gelis",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 554
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LiveRail",
+        "children": [
+            {
+                "name": "Mark Trefgarne",
+                "children": [
+                    {
+                        "name": "UCL",
+                        "value": 927
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Chatbooks",
+        "children": [
+            {
+                "name": "Nate Quigley",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 807
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "stride health",
+        "children": [
+            {
+                "name": "Noah Lang",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 547
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mobcrush",
+        "children": [
+            {
+                "name": "Royce Disini",
+                "children": [
+                    {
+                        "name": "Santa Clara University",
+                        "value": 46
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FiscalNote",
+        "children": [
+            {
+                "name": "Tim Hwang",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 329
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Booster Fuels",
+        "children": [
+            {
+                "name": "Frank Mycroft",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 54
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "StreamSets",
+        "children": [
+            {
+                "name": "Girish Pancha",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 440
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TakeLessons",
+        "children": [
+            {
+                "name": "Steven Cox",
+                "children": [
+                    {
+                        "name": "Eastern Kentucky University",
+                        "value": 707
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AdRoll",
+        "children": [
+            {
+                "name": "Aaron Bell",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 652
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pinpoint",
+        "children": [
+            {
+                "name": "Jeff Haynie",
+                "children": [
+                    {
+                        "name": "Southern Illinois University Carbondale",
+                        "value": 806
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DataGravity",
+        "children": [
+            {
+                "name": "Paula Long",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 250
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "fuboTV",
+        "children": [
+            {
+                "name": "David Gandler",
+                "children": [
+                    {
+                        "name": "Boston University",
+                        "value": 974
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Qstream",
+        "children": [
+            {
+                "name": "Duncan Lennox",
+                "children": [
+                    {
+                        "name": "University College Dublin",
+                        "value": 284
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FashionValet",
+        "children": [
+            {
+                "name": "Fadzarudin Anuar",
+                "children": [
+                    {
+                        "name": "Cambridge Tutors College",
+                        "value": 101
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Apartment List",
+        "children": [
+            {
+                "name": "John Kobs",
+                "children": [
+                    {
+                        "name": "Case Western Reserve University",
+                        "value": 106
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Treehouse Island",
+        "children": [
+            {
+                "name": "Ryan Carson",
+                "children": [
+                    {
+                        "name": "Colorado State University",
+                        "value": 681
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zagster",
+        "children": [
+            {
+                "name": "Timothy Ericson",
+                "children": [
+                    {
+                        "name": "Drexel University",
+                        "value": 87
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Apptio",
+        "children": [
+            {
+                "name": "Sunny Gupta",
+                "children": [
+                    {
+                        "name": "University of South Carolina",
+                        "value": 280
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BirdEye",
+        "children": [
+            {
+                "name": "Naveen Gupta",
+                "children": [
+                    {
+                        "name": "Birla Institute of Technology and Science Pilani",
+                        "value": 245
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "PLUMgrid",
+        "children": [
+            {
+                "name": "Awais Nemat",
+                "children": [
+                    {
+                        "name": "NED University of Engineering and Technology",
+                        "value": 376
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MOVE Guides",
+        "children": [
+            {
+                "name": "Brynne Kennedy",
+                "children": [
+                    {
+                        "name": "Yale University",
+                        "value": 655
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Signifyd",
+        "children": [
+            {
+                "name": "Rajesh Ramanand",
+                "children": [
+                    {
+                        "name": "Tulane University",
+                        "value": 772
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Denali Therapeutics",
+        "children": [
+            {
+                "name": "Ryan Watts",
+                "children": [
+                    {
+                        "name": "University of Utah",
+                        "value": 29
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Helium Systems",
+        "children": [
+            {
+                "name": "Amir Haleem",
+                "children": [
+                    {
+                        "name": "University of Manchester",
+                        "value": 616
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Frequency",
+        "children": [
+            {
+                "name": "Blair Harrison",
+                "children": [
+                    {
+                        "name": "University of Bristol",
+                        "value": 998
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Particle",
+        "children": [
+            {
+                "name": "Zach Supalla",
+                "children": [
+                    {
+                        "name": "Dartmouth College",
+                        "value": 300
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "White Ops",
+        "children": [
+            {
+                "name": "Michael Tiffany",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 191
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CareDox",
+        "children": [
+            {
+                "name": "Hesky Kutscher",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 858
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Iterable",
+        "children": [
+            {
+                "name": "Justin Zhu",
+                "children": [
+                    {
+                        "name": "Carnegie Mellon University",
+                        "value": 605
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Paxata",
+        "children": [
+            {
+                "name": "Prakash Nanduri",
+                "children": [
+                    {
+                        "name": "University of Texas Austin",
+                        "value": 889
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Amino Apps",
+        "children": [
+            {
+                "name": "Ben Anderson",
+                "children": [
+                    {
+                        "name": "Northeastern University",
+                        "value": 550
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AImotive",
+        "children": [
+            {
+                "name": "Laszlo Kishonti",
+                "children": [
+                    {
+                        "name": "Karinthy Frigyes Gimnazium",
+                        "value": 849
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Clever",
+        "children": [
+            {
+                "name": "Tyler Bosmeny",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 483
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stylus Media",
+        "children": [
+            {
+                "name": "Marc Worth",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 604
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "InvenSense",
+        "children": [
+            {
+                "name": "Steve Nasiri",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 819
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Recurly",
+        "children": [
+            {
+                "name": "Dan Burkhart",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 587
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Usermind",
+        "children": [
+            {
+                "name": "Michel Feaster",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 388
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WATCHMASTER",
+        "children": [
+            {
+                "name": "Stephan Heller",
+                "children": [
+                    {
+                        "name": "Universit\u00e4t Wien",
+                        "value": 981
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Workpop",
+        "children": [
+            {
+                "name": "Chris Ovitz",
+                "children": [
+                    {
+                        "name": "University of California Los Angeles",
+                        "value": 398
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Workspot",
+        "children": [
+            {
+                "name": "Amitabh Sinha",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Kanpur",
+                        "value": 16
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Apptimize",
+        "children": [
+            {
+                "name": "Nancy Hua",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 906
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CloudSimple",
+        "children": [
+            {
+                "name": "Guru Pangal",
+                "children": [
+                    {
+                        "name": "Jawaharlal Nehru Technological University",
+                        "value": 434
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "VigLink",
+        "children": [
+            {
+                "name": "Oliver Roup",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 446
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ZENEDGE",
+        "children": [
+            {
+                "name": "Yuri Frayman",
+                "children": [
+                    {
+                        "name": "Drexel University",
+                        "value": 633
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zipongo",
+        "children": [
+            {
+                "name": "Jason Langheier, MD, MPH",
+                "children": [
+                    {
+                        "name": "Williams College",
+                        "value": 668
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yieldbot",
+        "children": [
+            {
+                "name": "Jonathan Mendez",
+                "children": [
+                    {
+                        "name": "University of Southern California",
+                        "value": 430
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Whistle",
+        "children": [
+            {
+                "name": "Ben Jacobs",
+                "children": [
+                    {
+                        "name": "Peking University",
+                        "value": 400
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Caribou Biosciences",
+        "children": [
+            {
+                "name": "Rachel E. Haurwitz",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 443
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hollar",
+        "children": [
+            {
+                "name": "David Yeom",
+                "children": [
+                    {
+                        "name": "University of California Riverside",
+                        "value": 123
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nearpod",
+        "children": [
+            {
+                "name": "Guido Kovalskys",
+                "children": [
+                    {
+                        "name": "University of Buenos Aires",
+                        "value": 286
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wave Market",
+        "children": [
+            {
+                "name": "Tasso Roumeliotis",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 911
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dataiku",
+        "children": [
+            {
+                "name": "Florian Douetteau",
+                "children": [
+                    {
+                        "name": "Francs-Bourgeois",
+                        "value": 609
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Simple Finance Technology",
+        "children": [
+            {
+                "name": "Josh Reich",
+                "children": [
+                    {
+                        "name": "University of Melbourne",
+                        "value": 52
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "JOOR, Inc.",
+        "children": [
+            {
+                "name": "Mona Bijoor",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 745
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bench Accounting",
+        "children": [
+            {
+                "name": "Ian Crosby",
+                "children": [
+                    {
+                        "name": "Carleton University",
+                        "value": 249
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Verse",
+        "children": [
+            {
+                "name": "Borja Rossell",
+                "children": [
+                    {
+                        "name": "Technical University of Catalonia",
+                        "value": 532
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ginger.io",
+        "children": [
+            {
+                "name": "Anmol Madan",
+                "children": [
+                    {
+                        "name": "University of Pune",
+                        "value": 345
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LogMeIn",
+        "children": [
+            {
+                "name": "Michael Simon",
+                "children": [
+                    {
+                        "name": "University of Notre Dame",
+                        "value": 737
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Topix",
+        "children": [
+            {
+                "name": "Chris Tolles",
+                "children": [
+                    {
+                        "name": "Chinese University of Hong Kong",
+                        "value": 523
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zymergen",
+        "children": [
+            {
+                "name": "Joshua Hoffman",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 884
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kespry Inc.",
+        "children": [
+            {
+                "name": "Paul Doersch",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 938
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mighty AI",
+        "children": [
+            {
+                "name": "Matthew Bencke",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 164
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AnchorFree",
+        "children": [
+            {
+                "name": "David Gorodyansky",
+                "children": [
+                    {
+                        "name": "San Jose State University",
+                        "value": 663
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Echodyne",
+        "children": [
+            {
+                "name": "Eben Frankenberg",
+                "children": [
+                    {
+                        "name": "Dartmouth College",
+                        "value": 361
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Guideline Technologies Inc.",
+        "children": [
+            {
+                "name": "Kevin Busque",
+                "children": [
+                    {
+                        "name": "Fitchburg State University",
+                        "value": 727
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ParkWhiz",
+        "children": [
+            {
+                "name": "Aashish Dalal",
+                "children": [
+                    {
+                        "name": "Northwestern University",
+                        "value": 595
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LeadGenius",
+        "children": [
+            {
+                "name": "Prayag Narula",
+                "children": [
+                    {
+                        "name": "Netaji Subhas Institute of Technology",
+                        "value": 766
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ping Identity Corporation",
+        "children": [
+            {
+                "name": "Andre Durand",
+                "children": [
+                    {
+                        "name": "University of California Santa Barbara",
+                        "value": 882
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rinse",
+        "children": [
+            {
+                "name": "Ajay Prakash",
+                "children": [
+                    {
+                        "name": "Dartmouth College",
+                        "value": 644
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yieldmo",
+        "children": [
+            {
+                "name": "Michael Yavonditte",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 594
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yoyo Wallet",
+        "children": [
+            {
+                "name": "Alain Falys",
+                "children": [
+                    {
+                        "name": "Middlesex University",
+                        "value": 507
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Virtustream",
+        "children": [
+            {
+                "name": "Rodney Rogers",
+                "children": [
+                    {
+                        "name": "University of Florida",
+                        "value": 167
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tact",
+        "children": [
+            {
+                "name": "Chuck Ganapathi",
+                "children": [
+                    {
+                        "name": "PSG College of Technology",
+                        "value": 216
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Guidewire Software",
+        "children": [
+            {
+                "name": "Marcus Ryu",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 695
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kustomer",
+        "children": [
+            {
+                "name": "Brad Birnbaum",
+                "children": [
+                    {
+                        "name": "Brandeis University",
+                        "value": 876
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "KeepTruckin",
+        "children": [
+            {
+                "name": "Shoaib Makani",
+                "children": [
+                    {
+                        "name": "London School of Economics",
+                        "value": 259
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MiTu Network",
+        "children": [
+            {
+                "name": "Roy Burstin",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 957
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Descartes Labs",
+        "children": [
+            {
+                "name": "Mark Johnson",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 280
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SpiritShop.com (ACQUIRED)",
+        "children": [
+            {
+                "name": "Todd Sullivan",
+                "children": [
+                    {
+                        "name": "Yale University",
+                        "value": 499
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "GrubMarket Inc",
+        "children": [
+            {
+                "name": "Mike Xu",
+                "children": [
+                    {
+                        "name": "Xiamen University",
+                        "value": 283
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "HYP3R",
+        "children": [
+            {
+                "name": "Carlos Garcia",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 406
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Degreed",
+        "children": [
+            {
+                "name": "David Blake",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 791
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Meteor",
+        "children": [
+            {
+                "name": "Geoff Schmidt",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 630
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Whipclip / TV Time",
+        "children": [
+            {
+                "name": "Richard Rosenblatt",
+                "children": [
+                    {
+                        "name": "Brandeis University",
+                        "value": 128
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Xignite, Inc.",
+        "children": [
+            {
+                "name": "Stephane Dubois",
+                "children": [
+                    {
+                        "name": "Institut de Management International de Paris",
+                        "value": 470
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kwarter",
+        "children": [
+            {
+                "name": "Carlos Diaz",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 296
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mellanox Technologies",
+        "children": [
+            {
+                "name": "Eyal Waldman",
+                "children": [
+                    {
+                        "name": "Israel Institute of Technology",
+                        "value": 956
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Komand",
+        "children": [
+            {
+                "name": "Jen Andre",
+                "children": [
+                    {
+                        "name": "Carnegie Mellon University",
+                        "value": 826
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Percolate",
+        "children": [
+            {
+                "name": "Noah Brier",
+                "children": [
+                    {
+                        "name": "New York University",
+                        "value": 388
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Impact Radius",
+        "children": [
+            {
+                "name": "Per Pettersen",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 659
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "HoneyBook",
+        "children": [
+            {
+                "name": "Oz Alon",
+                "children": [
+                    {
+                        "name": "The Interdisciplinary Center",
+                        "value": 308
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Outward, Inc.",
+        "children": [
+            {
+                "name": "Clarence Chui",
+                "children": [
+                    {
+                        "name": "University of Michigan",
+                        "value": 931
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Socrata",
+        "children": [
+            {
+                "name": "Kevin Merritt",
+                "children": [
+                    {
+                        "name": "Sierra College",
+                        "value": 863
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Crew",
+        "children": [
+            {
+                "name": "Danny Leffel",
+                "children": [
+                    {
+                        "name": "Trinity University",
+                        "value": 465
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Carwow",
+        "children": [
+            {
+                "name": "James Hind",
+                "children": [
+                    {
+                        "name": "University of Nottingham",
+                        "value": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "RatePoint",
+        "children": [
+            {
+                "name": "Neal Creighton",
+                "children": [
+                    {
+                        "name": "United States Military Academy at West Point",
+                        "value": 721
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Estimize",
+        "children": [
+            {
+                "name": "Leigh Drogen",
+                "children": [
+                    {
+                        "name": "University of San Diego",
+                        "value": 631
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BeyondCore",
+        "children": [
+            {
+                "name": "Arijit Sengupta",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 473
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Actifio",
+        "children": [
+            {
+                "name": "Ash Ashutosh",
+                "children": [
+                    {
+                        "name": "Kakatiya Institute of Technology & Science",
+                        "value": 638
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Homebase.io",
+        "children": [
+            {
+                "name": "Scott Voigt",
+                "children": [
+                    {
+                        "name": "Georgia Institute of Technology",
+                        "value": 762
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SecurityScorecard Inc.",
+        "children": [
+            {
+                "name": "Aleksandr Yampolskiy",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 377
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Framebridge",
+        "children": [
+            {
+                "name": "Susan Tynan",
+                "children": [
+                    {
+                        "name": "University of Virginia",
+                        "value": 705
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Comprehend Systems",
+        "children": [
+            {
+                "name": "Rick Morrison",
+                "children": [
+                    {
+                        "name": "Carnegie Mellon University",
+                        "value": 239
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Exactuals",
+        "children": [
+            {
+                "name": "Mike Hurst",
+                "children": [
+                    {
+                        "name": "Santa Clara University",
+                        "value": 918
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Clear Labs",
+        "children": [
+            {
+                "name": "Sasan Amini",
+                "children": [
+                    {
+                        "name": "University of Tehran",
+                        "value": 865
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "People Power",
+        "children": [
+            {
+                "name": "Gene Wang",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 248
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Howcast",
+        "children": [
+            {
+                "name": "Jason Liebman",
+                "children": [
+                    {
+                        "name": "Duke University",
+                        "value": 647
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Formlabs",
+        "children": [
+            {
+                "name": "Maxim Lobovsky",
+                "children": [
+                    {
+                        "name": "Cornell University",
+                        "value": 989
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "GoTenna",
+        "children": [
+            {
+                "name": "Daniela Perdomo",
+                "children": [
+                    {
+                        "name": "Tufts University",
+                        "value": 516
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sense.ly",
+        "children": [
+            {
+                "name": "Adam Odessky",
+                "children": [
+                    {
+                        "name": "University of Illinois Urbana-Champaign",
+                        "value": 713
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ID.me",
+        "children": [
+            {
+                "name": "Blake Hall",
+                "children": [
+                    {
+                        "name": "Vanderbilt University",
+                        "value": 879
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SilverRail Technologies",
+        "children": [
+            {
+                "name": "Aaron Gowell",
+                "children": [
+                    {
+                        "name": "Northeastern University",
+                        "value": 293
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CARTO",
+        "children": [
+            {
+                "name": "Javier de la Torre",
+                "children": [
+                    {
+                        "name": "Universidad Polit\u00e9cnica de Madrid",
+                        "value": 352
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Duetto",
+        "children": [
+            {
+                "name": "Patrick Bosworth",
+                "children": [
+                    {
+                        "name": "University of San Diego",
+                        "value": 25
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "5miles",
+        "children": [
+            {
+                "name": "Liang Lu",
+                "children": [
+                    {
+                        "name": "University of Science and Technology of China",
+                        "value": 230
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Raise Marketplace",
+        "children": [
+            {
+                "name": "George Bousis",
+                "children": [
+                    {
+                        "name": "DePaul University",
+                        "value": 258
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Speakeasy",
+        "children": [
+            {
+                "name": "Reza Mohsin",
+                "children": [
+                    {
+                        "name": "Ohio Wesleyan University",
+                        "value": 818
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FlightCar",
+        "children": [
+            {
+                "name": "Rujul Zaparde",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 321
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yieldify",
+        "children": [
+            {
+                "name": "Jay Radia",
+                "children": [
+                    {
+                        "name": "UCL",
+                        "value": 181
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Farmigo",
+        "children": [
+            {
+                "name": "Benzi Ronen",
+                "children": [
+                    {
+                        "name": "Tel-Aviv University",
+                        "value": 23
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Hunt",
+        "children": [
+            {
+                "name": "Tim Weingarten",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 562
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Thanx",
+        "children": [
+            {
+                "name": "Zachary Goldstein",
+                "children": [
+                    {
+                        "name": "Dartmouth College",
+                        "value": 684
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Scientist.com (formerly Assay Depot)",
+        "children": [
+            {
+                "name": "Kevin Lustig",
+                "children": [
+                    {
+                        "name": "Cornell University",
+                        "value": 17
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stash",
+        "children": [
+            {
+                "name": "David Ronick",
+                "children": [
+                    {
+                        "name": "Brown University",
+                        "value": 682
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "INCORTA",
+        "children": [
+            {
+                "name": "Osama Elkady",
+                "children": [
+                    {
+                        "name": "Ain Shams University",
+                        "value": 152
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Afluenta",
+        "children": [
+            {
+                "name": "Alejandro Cosentino",
+                "children": [
+                    {
+                        "name": "Instituto San Jos\u00e9 de Flores",
+                        "value": 307
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pod Point",
+        "children": [
+            {
+                "name": "Erik Fairbairn",
+                "children": [
+                    {
+                        "name": "University of Sheffield",
+                        "value": 206
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DueDil",
+        "children": [
+            {
+                "name": "Damian Kimmelman",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 914
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SageCloud",
+        "children": [
+            {
+                "name": "Jeff Flowers",
+                "children": [
+                    {
+                        "name": "Georgia Institute of Technology",
+                        "value": 952
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Survios",
+        "children": [
+            {
+                "name": "Nathan Burba",
+                "children": [
+                    {
+                        "name": "Ithaca College",
+                        "value": 527
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Weave",
+        "children": [
+            {
+                "name": "Brandon Rodman",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 414
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wandera",
+        "children": [
+            {
+                "name": "Eldar Tuvey",
+                "children": [
+                    {
+                        "name": "University of Bristol",
+                        "value": 74
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cockroach Labs",
+        "children": [
+            {
+                "name": "Spencer Kimball",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 431
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "prooV",
+        "children": [
+            {
+                "name": "Toby Olshanetsky",
+                "children": [
+                    {
+                        "name": "Tel Aviv University",
+                        "value": 713
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cava Grill",
+        "children": [
+            {
+                "name": "Brett Schulman",
+                "children": [
+                    {
+                        "name": "University of Maryland College Park",
+                        "value": 762
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mark43",
+        "children": [
+            {
+                "name": "Scott Crouch",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 627
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bina Technologies",
+        "children": [
+            {
+                "name": "Narges Bani Asadi",
+                "children": [
+                    {
+                        "name": "University of Tehran",
+                        "value": 26
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BigPanda",
+        "children": [
+            {
+                "name": "Assaf Resnick",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 893
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "WeddingWire",
+        "children": [
+            {
+                "name": "Timothy Chi",
+                "children": [
+                    {
+                        "name": "Cornell University",
+                        "value": 694
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SnapApp",
+        "children": [
+            {
+                "name": "Seth Lieberman",
+                "children": [
+                    {
+                        "name": "Carleton College",
+                        "value": 135
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Appia",
+        "children": [
+            {
+                "name": "Jud Bowman",
+                "children": [
+                    {
+                        "name": "North Carolina School of Science and Mathematics",
+                        "value": 763
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Bevi",
+        "children": [
+            {
+                "name": "Sean Grundy",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 430
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Creamfinance",
+        "children": [
+            {
+                "name": "Matiss Ansviesulis",
+                "children": [
+                    {
+                        "name": "Lancaster University",
+                        "value": 723
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zooz",
+        "children": [
+            {
+                "name": "Oren Levy",
+                "children": [
+                    {
+                        "name": "Shenkar College of Engineering",
+                        "value": 301
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Whistle Sports",
+        "children": [
+            {
+                "name": "John West",
+                "children": [
+                    {
+                        "name": "Worcester Polytechnic Institute",
+                        "value": 316
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Swap.com",
+        "children": [
+            {
+                "name": "Juha Koponen",
+                "children": [
+                    {
+                        "name": "Teknillinen korkeakoulu",
+                        "value": 608
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Livingly Media",
+        "children": [
+            {
+                "name": "Tony Mamone",
+                "children": [
+                    {
+                        "name": "Dartmouth College",
+                        "value": 428
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Payfully",
+        "children": [
+            {
+                "name": "Alberto Sheinfeld",
+                "children": [
+                    {
+                        "name": "Universidad Cat\u00f3lica Andr\u00e9s Bello",
+                        "value": 915
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Acompli",
+        "children": [
+            {
+                "name": "Javier Soltero",
+                "children": [
+                    {
+                        "name": "Carnegie Mellon University",
+                        "value": 681
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Boxee",
+        "children": [
+            {
+                "name": "Avner Ronen",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 58
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ApplePie Capital",
+        "children": [
+            {
+                "name": "Denise Thomas",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 426
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mango Health",
+        "children": [
+            {
+                "name": "Jason Oberfest",
+                "children": [
+                    {
+                        "name": "Colby College",
+                        "value": 797
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Maana",
+        "children": [
+            {
+                "name": "Babur Ozden",
+                "children": [
+                    {
+                        "name": "University of Texas Austin",
+                        "value": 315
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "NationBuilder",
+        "children": [
+            {
+                "name": "Jim Gilliam",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 570
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Markforged",
+        "children": [
+            {
+                "name": "Gregory Mark",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 594
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ZeroFOX",
+        "children": [
+            {
+                "name": "James Foster",
+                "children": [
+                    {
+                        "name": "University of Maryland College Park",
+                        "value": 438
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nitro",
+        "children": [
+            {
+                "name": "Sam Chandler",
+                "children": [
+                    {
+                        "name": "RMIT University",
+                        "value": 381
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Habito",
+        "children": [
+            {
+                "name": "Daniel Hegarty",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 482
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mirantis",
+        "children": [
+            {
+                "name": "Alex Freedland",
+                "children": [
+                    {
+                        "name": "Gubkin Russian State University of Oil and Gas",
+                        "value": 257
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kinsa",
+        "children": [
+            {
+                "name": "Inder Singh",
+                "children": [
+                    {
+                        "name": "University of Michigan",
+                        "value": 391
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zyme Solutions",
+        "children": [
+            {
+                "name": "Chandran Sankaran",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Madras",
+                        "value": 322
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Omni Prime Inc.",
+        "children": [
+            {
+                "name": "Dan Hu",
+                "children": [
+                    {
+                        "name": "Tsinghua University",
+                        "value": 209
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Benchling",
+        "children": [
+            {
+                "name": "Sajith Wickramasekara",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 437
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wrap Media",
+        "children": [
+            {
+                "name": "Eric Greenberg",
+                "children": [
+                    {
+                        "name": "University of Texas Austin",
+                        "value": 785
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "storefront",
+        "children": [
+            {
+                "name": "Erik Eliason",
+                "children": [
+                    {
+                        "name": "University of Minnesota",
+                        "value": 472
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Drizly",
+        "children": [
+            {
+                "name": "Nicholas Rellas",
+                "children": [
+                    {
+                        "name": "Boston College",
+                        "value": 365
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Arctic Wolf Networks",
+        "children": [
+            {
+                "name": "Brian NeSmith",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 64
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ustream",
+        "children": [
+            {
+                "name": "John Ham",
+                "children": [
+                    {
+                        "name": "United States Military Academy at West Point",
+                        "value": 481
+                    }
+                ]
+            },
+            {
+                "name": "Brad Hunstable",
+                "children": [
+                    {
+                        "name": "United States Military Academy at West Point",
+                        "value": 534
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CARD.com",
+        "children": [
+            {
+                "name": "Ben Katz",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 829
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AgilOne",
+        "children": [
+            {
+                "name": "Omer Artun",
+                "children": [
+                    {
+                        "name": "Bo\ufffd?azi\u00e7i University",
+                        "value": 954
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CueLearn/Cuemath",
+        "children": [
+            {
+                "name": "Manan Khurma",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Delhi",
+                        "value": 470
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Glow",
+        "children": [
+            {
+                "name": "Michael Huang",
+                "children": [
+                    {
+                        "name": "University of Georgia",
+                        "value": 831
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wonderbly",
+        "children": [
+            {
+                "name": "Asi Sharabi",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 773
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BDB Ventures",
+        "children": [
+            {
+                "name": "Brian Berger",
+                "children": [
+                    {
+                        "name": "University of Colorado Boulder",
+                        "value": 391
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Worthy",
+        "children": [
+            {
+                "name": "Benny De-Kalo",
+                "children": [
+                    {
+                        "name": "New York University",
+                        "value": 727
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BetterDoctor",
+        "children": [
+            {
+                "name": "Ari Tulla",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 298
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Geofeedia",
+        "children": [
+            {
+                "name": "Phil Harris",
+                "children": [
+                    {
+                        "name": "Ohio State University",
+                        "value": 220
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Full Circle Insights",
+        "children": [
+            {
+                "name": "Bonnie Crater",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 444
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kamcord",
+        "children": [
+            {
+                "name": "Matt Zitzmann",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 899
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Yesware",
+        "children": [
+            {
+                "name": "Matthew Bellows",
+                "children": [
+                    {
+                        "name": "Brown University",
+                        "value": 240
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Captora",
+        "children": [
+            {
+                "name": "Paul Albright",
+                "children": [
+                    {
+                        "name": "James Madison University",
+                        "value": 569
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FloSports",
+        "children": [
+            {
+                "name": "Martin Floreani",
+                "children": [
+                    {
+                        "name": "California Polytechnic State University San Luis Obispo",
+                        "value": 876
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Electric Imp",
+        "children": [
+            {
+                "name": "Hugo Fiennes",
+                "children": [
+                    {
+                        "name": "University of Warwick",
+                        "value": 702
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jethro",
+        "children": [
+            {
+                "name": "Eli Singer",
+                "children": [
+                    {
+                        "name": "Pace University",
+                        "value": 256
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "OverOps",
+        "children": [
+            {
+                "name": "Tal Weiss",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 912
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jornaya",
+        "children": [
+            {
+                "name": "Ross Shanken",
+                "children": [
+                    {
+                        "name": "Haverford College",
+                        "value": 905
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "OpenSesame",
+        "children": [
+            {
+                "name": "Don Spear",
+                "children": [
+                    {
+                        "name": "Rice University",
+                        "value": 294
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "InsightSquared",
+        "children": [
+            {
+                "name": "Fred Shilmover",
+                "children": [
+                    {
+                        "name": "Tufts University",
+                        "value": 741
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MiMedia",
+        "children": [
+            {
+                "name": "Chris Giordano",
+                "children": [
+                    {
+                        "name": "Bowdoin College",
+                        "value": 536
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DSTLD",
+        "children": [
+            {
+                "name": "Mark T. Lynn",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 745
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tally Technologies",
+        "children": [
+            {
+                "name": "Jason Brown",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 558
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Trendyol Group",
+        "children": [
+            {
+                "name": "Demet Suzan Mutlu",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 442
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "GWC",
+        "children": [
+            {
+                "name": "Wen Chu",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 957
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Datorama",
+        "children": [
+            {
+                "name": "Ran Sarig",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 753
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "iguazio",
+        "children": [
+            {
+                "name": "Asaf Somekh",
+                "children": [
+                    {
+                        "name": "Israel Institute of Technology",
+                        "value": 963
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SmartAsset",
+        "children": [
+            {
+                "name": "Michael Carvin",
+                "children": [
+                    {
+                        "name": "Princeton University",
+                        "value": 842
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Leblon Capital",
+        "children": [
+            {
+                "name": "Andrej Henkler",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 723
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Leap Commerce",
+        "children": [
+            {
+                "name": "Amit Chatterjee",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 891
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Moon Express, Inc.",
+        "children": [
+            {
+                "name": "Bob Richards",
+                "children": [
+                    {
+                        "name": "Ryerson University",
+                        "value": 238
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Frank & Oak",
+        "children": [
+            {
+                "name": "Ethan Song",
+                "children": [
+                    {
+                        "name": "University of British Columbia",
+                        "value": 769
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "PatientPing",
+        "children": [
+            {
+                "name": "Jay Desai",
+                "children": [
+                    {
+                        "name": "University of Michigan",
+                        "value": 615
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Versa Networks",
+        "children": [
+            {
+                "name": "Kumar Mehta",
+                "children": [
+                    {
+                        "name": "IIT Kharagpur",
+                        "value": 902
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Achieve3000",
+        "children": [
+            {
+                "name": "Saki Dodelson",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 274
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "HowAboutWe",
+        "children": [
+            {
+                "name": "Brian Schechter",
+                "children": [
+                    {
+                        "name": "Marlboro College",
+                        "value": 219
+                    }
+                ]
+            },
+            {
+                "name": "Aaron Schildkrout",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 709
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Agora.io",
+        "children": [
+            {
+                "name": "Tony Zhao",
+                "children": [
+                    {
+                        "name": "Peking University",
+                        "value": 795
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Premise",
+        "children": [
+            {
+                "name": "David Soloff",
+                "children": [
+                    {
+                        "name": "Columbia University",
+                        "value": 42
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Waterline Data",
+        "children": [
+            {
+                "name": "Alex Gorelik",
+                "children": [
+                    {
+                        "name": "Columbia University",
+                        "value": 581
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Spark Therapeutics",
+        "children": [
+            {
+                "name": "Jeffrey Marrazzo",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 931
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FiftyThree",
+        "children": [
+            {
+                "name": "Georg Petschnigg",
+                "children": [
+                    {
+                        "name": "Columbia University",
+                        "value": 558
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Autogrid",
+        "children": [
+            {
+                "name": "Amit Narayan",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Kanpur",
+                        "value": 509
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "YipitData",
+        "children": [
+            {
+                "name": "Vinicius Vacanti",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 96
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Minio, Inc.",
+        "children": [
+            {
+                "name": "Anand Babu Periasamy",
+                "children": [
+                    {
+                        "name": "Annamalai University",
+                        "value": 206
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Visual IQ",
+        "children": [
+            {
+                "name": "Manu Mathew",
+                "children": [
+                    {
+                        "name": "Rochester Institute of Technology",
+                        "value": 225
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TurnKey Vacation Rentals",
+        "children": [
+            {
+                "name": "T.J. Clark",
+                "children": [
+                    {
+                        "name": "University of Notre Dame",
+                        "value": 894
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Help Scout",
+        "children": [
+            {
+                "name": "Nick Francis",
+                "children": [
+                    {
+                        "name": "Middle Tennessee State University",
+                        "value": 406
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fooda",
+        "children": [
+            {
+                "name": "Orazio Buzza",
+                "children": [
+                    {
+                        "name": "University of Illinois Urbana-Champaign",
+                        "value": 694
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FutureAdvisor",
+        "children": [
+            {
+                "name": "Bo Lu",
+                "children": [
+                    {
+                        "name": "University of Illinois Urbana-Champaign",
+                        "value": 287
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Adaptly",
+        "children": [
+            {
+                "name": "Nikhil Sethi",
+                "children": [
+                    {
+                        "name": "Northwestern University",
+                        "value": 235
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Augury",
+        "children": [
+            {
+                "name": "Saar Yoskovitz",
+                "children": [
+                    {
+                        "name": "Israel Institute of Technology",
+                        "value": 599
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SpinGo",
+        "children": [
+            {
+                "name": "Kreg Peeler",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 368
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Trainline France",
+        "children": [
+            {
+                "name": "Jean-Daniel Guyot",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 586
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gaikai",
+        "children": [
+            {
+                "name": "David Perry",
+                "children": [
+                    {
+                        "name": "Queen's University Belfast",
+                        "value": 371
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mitra Biotech",
+        "children": [
+            {
+                "name": "Mallik Sundaram",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Varanasi",
+                        "value": 394
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Parsely",
+        "children": [
+            {
+                "name": "Sachin Kamdar",
+                "children": [
+                    {
+                        "name": "New York University",
+                        "value": 750
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dynamic Signal",
+        "children": [
+            {
+                "name": "Russell Fradin",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 898
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hadean",
+        "children": [
+            {
+                "name": "Rashid Mansoor",
+                "children": [
+                    {
+                        "name": "University of Portsmouth",
+                        "value": 525
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FirstBest",
+        "children": [
+            {
+                "name": "John Belizaire",
+                "children": [
+                    {
+                        "name": "Cornell University",
+                        "value": 246
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Replicat, Inc.",
+        "children": [
+            {
+                "name": "Jacob Taylor",
+                "children": [
+                    {
+                        "name": "University of California Los Angeles",
+                        "value": 755
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Reflexion Health",
+        "children": [
+            {
+                "name": "Spencer Hutchins",
+                "children": [
+                    {
+                        "name": "Colby College",
+                        "value": 888
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gild",
+        "children": [
+            {
+                "name": "Sheeroy D. Desai",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 60
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Disruptor Beam",
+        "children": [
+            {
+                "name": "Jon Radoff",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 999
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Soundtrack Your Brand",
+        "children": [
+            {
+                "name": "Ola Sars",
+                "children": [
+                    {
+                        "name": "Copenhagen Business School",
+                        "value": 573
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FilmTrack",
+        "children": [
+            {
+                "name": "Jason Kassin",
+                "children": [
+                    {
+                        "name": "Vassar College",
+                        "value": 652
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CubeTree",
+        "children": [
+            {
+                "name": "Carlin Wiegner",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 567
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sociable Labs",
+        "children": [
+            {
+                "name": "Nisan Gabbay",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 210
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zafu",
+        "children": [
+            {
+                "name": "Angelique Augereau",
+                "children": [
+                    {
+                        "name": "University of British Columbia",
+                        "value": 968
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Academia.edu",
+        "children": [
+            {
+                "name": "Richard Price",
+                "children": [
+                    {
+                        "name": "University of Oxford",
+                        "value": 822
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LendKey Technologies, Inc.",
+        "children": [
+            {
+                "name": "Vince Passione",
+                "children": [
+                    {
+                        "name": "NYU Polytechnic University",
+                        "value": 550
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "PlayFab, Inc.",
+        "children": [
+            {
+                "name": "James Gwertzman",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 137
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kinvey",
+        "children": [
+            {
+                "name": "Sravish Sridhar",
+                "children": [
+                    {
+                        "name": "University of Texas Austin",
+                        "value": 820
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Treasure Data",
+        "children": [
+            {
+                "name": "Hironobu Yoshikawa",
+                "children": [
+                    {
+                        "name": "Waseda University",
+                        "value": 597
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "XOR Data Exchange",
+        "children": [
+            {
+                "name": "Mike Cook",
+                "children": [
+                    {
+                        "name": "Texas State University San Marcos",
+                        "value": 188
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Infoworks",
+        "children": [
+            {
+                "name": "Amar Arsikere",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 570
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Miselu Inc.",
+        "children": [
+            {
+                "name": "Yoshinari Yoshikawa",
+                "children": [
+                    {
+                        "name": "Hosei University",
+                        "value": 767
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Origami Logic",
+        "children": [
+            {
+                "name": "Opher Kahane",
+                "children": [
+                    {
+                        "name": "Tel Aviv University",
+                        "value": 436
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "First Opinion, Inc.",
+        "children": [
+            {
+                "name": "McKay Thomas",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 507
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mambu",
+        "children": [
+            {
+                "name": "Eugene Danilkis",
+                "children": [
+                    {
+                        "name": "University of British Columbia",
+                        "value": 323
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Twice",
+        "children": [
+            {
+                "name": "Noah Ready-Campbell",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 300
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Semantic Machines",
+        "children": [
+            {
+                "name": "Daniel Roth",
+                "children": [
+                    {
+                        "name": "Trinity College Hartford",
+                        "value": 325
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ayla Networks",
+        "children": [
+            {
+                "name": "David Friedman",
+                "children": [
+                    {
+                        "name": "Colgate University",
+                        "value": 265
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "GOGOVAN",
+        "children": [
+            {
+                "name": "Steven Lam",
+                "children": [
+                    {
+                        "name": "University of California Berkeley",
+                        "value": 684
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mirakl",
+        "children": [
+            {
+                "name": "Philippe Corrot",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 848
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cogito Corporation",
+        "children": [
+            {
+                "name": "Joshua Feast",
+                "children": [
+                    {
+                        "name": "Massey University",
+                        "value": 268
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "eSpark",
+        "children": [
+            {
+                "name": "David Vinca",
+                "children": [
+                    {
+                        "name": "Penn State University",
+                        "value": 801
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Teem",
+        "children": [
+            {
+                "name": "Shaun Ritchie",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 17
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Alta Motors",
+        "children": [
+            {
+                "name": "Marc Fenigstein",
+                "children": [
+                    {
+                        "name": "Dartmouth College",
+                        "value": 9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zonoff",
+        "children": [
+            {
+                "name": "Mike Harris",
+                "children": [
+                    {
+                        "name": "Purdue University",
+                        "value": 208
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SalesWise",
+        "children": [
+            {
+                "name": "Gregg Freishtat",
+                "children": [
+                    {
+                        "name": "Boston University",
+                        "value": 818
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Black Tux",
+        "children": [
+            {
+                "name": "Andrew Blackmon",
+                "children": [
+                    {
+                        "name": "Pepperdine University",
+                        "value": 842
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Commerce Signals",
+        "children": [
+            {
+                "name": "Thomas Noyes",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 260
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Arctic Sand Technologies",
+        "children": [
+            {
+                "name": "Nadia Shalaby",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 354
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "RightCare Solutions",
+        "children": [
+            {
+                "name": "Eric Heil",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 737
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "YOGASMOGA",
+        "children": [
+            {
+                "name": "Rishi Bali",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 157
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Xova Labs",
+        "children": [
+            {
+                "name": "Brett Galloway",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 564
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MD Insider",
+        "children": [
+            {
+                "name": "David Norris",
+                "children": [
+                    {
+                        "name": "University of Texas Dallas",
+                        "value": 303
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ruby Ribbon",
+        "children": [
+            {
+                "name": "Anna Zornosa",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 101
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BlogHer",
+        "children": [
+            {
+                "name": "Lisa Stone",
+                "children": [
+                    {
+                        "name": "Wellesley College",
+                        "value": 884
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hookit",
+        "children": [
+            {
+                "name": "Scott Tilton",
+                "children": [
+                    {
+                        "name": "Elon University",
+                        "value": 105
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Flex Logix Technologies",
+        "children": [
+            {
+                "name": "Geoff Tate",
+                "children": [
+                    {
+                        "name": "University of Alberta",
+                        "value": 724
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Borrowed & Blue, Inc.",
+        "children": [
+            {
+                "name": "Adam Healey",
+                "children": [
+                    {
+                        "name": "University of Virginia",
+                        "value": 534
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Demisto",
+        "children": [
+            {
+                "name": "Slavik Markovich",
+                "children": [
+                    {
+                        "name": "Israel Institute of Technology",
+                        "value": 609
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "BioLite",
+        "children": [
+            {
+                "name": "Jonathan Cedar",
+                "children": [
+                    {
+                        "name": "Dartmouth College",
+                        "value": 353
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "JibJab",
+        "children": [
+            {
+                "name": "Gregg Spiridellis",
+                "children": [
+                    {
+                        "name": "Rutgers University",
+                        "value": 32
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "10X Genomics",
+        "children": [
+            {
+                "name": "Serge Saxonov",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 635
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Procured Health",
+        "children": [
+            {
+                "name": "Hani Elias",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 929
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pepperdata",
+        "children": [
+            {
+                "name": "Sean Suchter",
+                "children": [
+                    {
+                        "name": "California Institute of Technology",
+                        "value": 752
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Maxwell Health",
+        "children": [
+            {
+                "name": "Veer Gidwaney",
+                "children": [
+                    {
+                        "name": "University of Western Ontario",
+                        "value": 835
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "iStreamPlanet",
+        "children": [
+            {
+                "name": "Mio Babic",
+                "children": [
+                    {
+                        "name": "Montana State University Billings",
+                        "value": 73
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Datrium",
+        "children": [
+            {
+                "name": "Brian Biles",
+                "children": [
+                    {
+                        "name": "University of California Santa Cruz",
+                        "value": 510
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "H.BLOOM",
+        "children": [
+            {
+                "name": "Bryan Burkhart",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 871
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dealflo",
+        "children": [
+            {
+                "name": "Abe Smith",
+                "children": [
+                    {
+                        "name": "UCL",
+                        "value": 333
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ALICE",
+        "children": [
+            {
+                "name": "Justin Effron",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 75
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CITYBASE",
+        "children": [
+            {
+                "name": "Michael Duffy",
+                "children": [
+                    {
+                        "name": "Purdue University",
+                        "value": 636
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SweetLabs",
+        "children": [
+            {
+                "name": "Darrius Thompson",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 696
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LeanData",
+        "children": [
+            {
+                "name": "Evan Liang",
+                "children": [
+                    {
+                        "name": "Stanford University",
+                        "value": 531
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MineralTree",
+        "children": [
+            {
+                "name": "BC Krishna",
+                "children": [
+                    {
+                        "name": "Birla Institute of Technology and Science Pilani",
+                        "value": 369
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kidaptive",
+        "children": [
+            {
+                "name": "P.J. Gunsagar",
+                "children": [
+                    {
+                        "name": "University of California Los Angeles",
+                        "value": 991
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Grommet",
+        "children": [
+            {
+                "name": "Jules Pieri",
+                "children": [
+                    {
+                        "name": "University of Michigan",
+                        "value": 729
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Solera Health, Inc.",
+        "children": [
+            {
+                "name": "Brenda Schmidt",
+                "children": [
+                    {
+                        "name": "Indiana University Bloomington",
+                        "value": 436
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "United Wind",
+        "children": [
+            {
+                "name": "Russell Tencer",
+                "children": [
+                    {
+                        "name": "Fashion Institute of Technology",
+                        "value": 484
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Artemis Health",
+        "children": [
+            {
+                "name": "Grant Gordon",
+                "children": [
+                    {
+                        "name": "Brigham Young University",
+                        "value": 115
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Little Black Bag",
+        "children": [
+            {
+                "name": "Dan Murillo",
+                "children": [
+                    {
+                        "name": "Amherst College",
+                        "value": 824
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stitch",
+        "children": [
+            {
+                "name": "Somrat Niyogi",
+                "children": [
+                    {
+                        "name": "University of Texas Austin",
+                        "value": 607
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Magenta Therapeutics",
+        "children": [
+            {
+                "name": "Jason Gardner",
+                "children": [
+                    {
+                        "name": "Cambridge University",
+                        "value": 10
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ThingWorx",
+        "children": [
+            {
+                "name": "Russell Fadel",
+                "children": [
+                    {
+                        "name": "Duke University",
+                        "value": 962
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Prestadero",
+        "children": [
+            {
+                "name": "Gerardo Obregon",
+                "children": [
+                    {
+                        "name": "Universidad Iberoamericana Ciudad de M\u00e9xico",
+                        "value": 182
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mimecast",
+        "children": [
+            {
+                "name": "Peter Bauer",
+                "children": [
+                    {
+                        "name": "Institute of Marketing Management South Africa",
+                        "value": 31
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "EverTrue",
+        "children": [
+            {
+                "name": "Brent Grinna",
+                "children": [
+                    {
+                        "name": "Brown University",
+                        "value": 583
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wave Computing",
+        "children": [
+            {
+                "name": "Pete Foley",
+                "children": [
+                    {
+                        "name": "Rice University",
+                        "value": 769
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lumo Bodytech",
+        "children": [
+            {
+                "name": "Monisha Perkash",
+                "children": [
+                    {
+                        "name": "Yale University",
+                        "value": 929
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Oyster.com",
+        "children": [
+            {
+                "name": "Elie Seidman",
+                "children": [
+                    {
+                        "name": "University of Pennsylvania",
+                        "value": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Cuil",
+        "children": [
+            {
+                "name": "Tom Costello",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 32
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SHYFT",
+        "children": [
+            {
+                "name": "Zackary King",
+                "children": [
+                    {
+                        "name": "Bentley University",
+                        "value": 138
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Performance Horizon",
+        "children": [
+            {
+                "name": "Malcolm Cowley",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 906
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "GoCatch",
+        "children": [
+            {
+                "name": "Ned Moorfield",
+                "children": [
+                    {
+                        "name": "University of Adelaide",
+                        "value": 357
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "YUPPTV",
+        "children": [
+            {
+                "name": "Udaynandan Reddy Padi",
+                "children": [
+                    {
+                        "name": "Delhi College of Engineering",
+                        "value": 187
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "LiquidHub",
+        "children": [
+            {
+                "name": "Jonathan Brassington",
+                "children": [
+                    {
+                        "name": "Misericordia University",
+                        "value": 33
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Navent",
+        "children": [
+            {
+                "name": "Nicolas Tejerina",
+                "children": [
+                    {
+                        "name": "Universidad Torcuato Di Tella",
+                        "value": 853
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "NuORDER",
+        "children": [
+            {
+                "name": "Heath Wells",
+                "children": [
+                    {
+                        "name": "University of Adelaide",
+                        "value": 722
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SS8 Networks",
+        "children": [
+            {
+                "name": "Henry Wong",
+                "children": [
+                    {
+                        "name": "University of Utah",
+                        "value": 496
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "tenXer",
+        "children": [
+            {
+                "name": "Jeff Ma",
+                "children": [
+                    {
+                        "name": "Massachusetts Institute of Technology",
+                        "value": 243
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "DynamicAction",
+        "children": [
+            {
+                "name": "John Squire",
+                "children": [
+                    {
+                        "name": "University of California Davis",
+                        "value": 753
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Wantful",
+        "children": [
+            {
+                "name": "John Poisson",
+                "children": [
+                    {
+                        "name": "Boston University",
+                        "value": 800
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "ENDLESS",
+        "children": [
+            {
+                "name": "Matt Dalio",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 687
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "C1X Inc.",
+        "children": [
+            {
+                "name": "Mukundu Kumaran",
+                "children": [
+                    {
+                        "name": "Anna University",
+                        "value": 86
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Roadie",
+        "children": [
+            {
+                "name": "Marc J. Gorlin",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 258
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "PerimeterX",
+        "children": [
+            {
+                "name": "Omri Iluz",
+                "children": [
+                    {
+                        "name": "Tel Aviv University",
+                        "value": 41
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TrialPay",
+        "children": [
+            {
+                "name": "Terry Angelos",
+                "children": [
+                    {
+                        "name": "University of the Witwatersrand",
+                        "value": 782
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tonomi, Inc.",
+        "children": [
+            {
+                "name": "Victoria Livschitz",
+                "children": [
+                    {
+                        "name": "Kharkiv State University",
+                        "value": 756
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Validic",
+        "children": [
+            {
+                "name": "Drew Schiller",
+                "children": [
+                    {
+                        "name": "University of Iowa",
+                        "value": 513
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Plum District",
+        "children": [
+            {
+                "name": "Megan Gardner",
+                "children": [
+                    {
+                        "name": "Smith College",
+                        "value": 627
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Eureka Therapeutics",
+        "children": [
+            {
+                "name": "Cheng Liu",
+                "children": [
+                    {
+                        "name": "Peking University",
+                        "value": 211
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mercatus",
+        "children": [
+            {
+                "name": "Haresh Patel",
+                "children": [
+                    {
+                        "name": "University of Notre Dame",
+                        "value": 747
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kumu Networks",
+        "children": [
+            {
+                "name": "Sachin Katti",
+                "children": [
+                    {
+                        "name": "IIT Bombay",
+                        "value": 585
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fluxx",
+        "children": [
+            {
+                "name": "Jason Ricci",
+                "children": [
+                    {
+                        "name": "North Carolina State University",
+                        "value": 203
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Threadflip",
+        "children": [
+            {
+                "name": "Manik Singh",
+                "children": [
+                    {
+                        "name": "University of Pune",
+                        "value": 425
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tongal",
+        "children": [
+            {
+                "name": "Rob Salvatore",
+                "children": [
+                    {
+                        "name": "Boston College",
+                        "value": 477
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Teracent",
+        "children": [
+            {
+                "name": "Vikas Jha",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Delhi",
+                        "value": 489
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "StarMaker Interactive",
+        "children": [
+            {
+                "name": "Jeff Daniel",
+                "children": [
+                    {
+                        "name": "Brown University",
+                        "value": 292
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Edico Genome",
+        "children": [
+            {
+                "name": "Pieter van Rooyen",
+                "children": [
+                    {
+                        "name": "University of Johannesburg",
+                        "value": 839
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rhythm NewMedia",
+        "children": [
+            {
+                "name": "Ujjal Kohli",
+                "children": [
+                    {
+                        "name": "Indian Institute of Technology Delhi",
+                        "value": 614
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Evergage",
+        "children": [
+            {
+                "name": "Karl Wirth",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 892
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AtScale",
+        "children": [
+            {
+                "name": "David P. Mariani",
+                "children": [
+                    {
+                        "name": "University of California Los Angeles",
+                        "value": 969
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Modern Meadow",
+        "children": [
+            {
+                "name": "Andras Forgacs",
+                "children": [
+                    {
+                        "name": "Harvard University",
+                        "value": 949
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "UNIFi Software",
+        "children": [
+            {
+                "name": "Robert Carlson",
+                "children": [
+                    {
+                        "name": "University of Utah",
+                        "value": 890
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hoopla Software",
+        "children": [
+            {
+                "name": "Michael Smalls",
+                "children": [
+                    {
+                        "name": "Calvin College",
+                        "value": 184
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "UserVoice",
+        "children": [
+            {
+                "name": "Richard White",
+                "children": [
+                    {
+                        "name": "North Carolina State University",
+                        "value": 456
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Clymb",
+        "children": [
+            {
+                "name": "Kelly Dachtler",
+                "children": [
+                    {
+                        "name": "Parsons School of Design",
+                        "value": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Peatix",
+        "children": [
+            {
+                "name": "Taku Harada",
+                "children": [
+                    {
+                        "name": "Yale University",
+                        "value": 405
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rezdy",
+        "children": [
+            {
+                "name": "Simon Lenoir",
+                "children": [
+                    {
+                        "name": "University of Grenoble",
+                        "value": 806
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "PivotDesk",
+        "children": [
+            {
+                "name": "David Mandell",
+                "children": [
+                    {
+                        "name": "Lehigh University",
+                        "value": 455
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lifesize",
+        "children": [
+            {
+                "name": "Craig Malloy",
+                "children": [
+                    {
+                        "name": "United States Naval Academy",
+                        "value": 331
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Madefire",
+        "children": [
+            {
+                "name": "Ben Wolstenholme",
+                "children": [
+                    {
+                        "name": "Central Saint Martins",
+                        "value": 911
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Opsee",
+        "children": [
+            {
+                "name": "Cliff Moon",
+                "children": [
+                    {
+                        "name": "University of Delaware",
+                        "value": 68
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Genapsys",
+        "children": [
+            {
+                "name": "Hesaam Esfandyarpour",
+                "children": [
+                    {
+                        "name": "Sharif University of Technology",
+                        "value": 693
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "TastemakerX",
+        "children": [
+            {
+                "name": "Marc Ruxin",
+                "children": [
+                    {
+                        "name": "Hamilton College",
+                        "value": 875
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Fyusion",
+        "children": [
+            {
+                "name": "Radu B. Rusu",
+                "children": [
+                    {
+                        "name": "",
+                        "value": 770
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hibob",
+        "children": [
+            {
+                "name": "Ronni Zehavi",
+                "children": [
+                    {
+                        "name": "Tel Aviv University",
+                        "value": 810
+                    }
+                ]
+            }
+        ]
+    }
+]
