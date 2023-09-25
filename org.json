@@ -2839,11 +2839,29 @@
         "name": "MemSQL",
         "children": [
             {
-                "name": "Eric Frenkiel",
+                "name": "Founder/Creator",
                 "children": [
                     {
-                        "name": "Stanford University",
+                        "name": "Eric Frenkiel",
+                        "children": [
+                            {
+                                "name": "Stanford University",
+                                "value": 109
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Platforms",
+                "children": [
+                    {
+                        "name": "SingleStore Managed Service",
                         "value": 109
+                    },
+                    {
+                        "name": "Kubernetes",
+                        "value": 110
                     }
                 ]
             }
